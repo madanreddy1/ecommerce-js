@@ -1,0 +1,36 @@
+body{margin: 0px;padding: 0px;outline: 0px;}
+#maincontainer{margin:0 auto ;height:1900px;width: 1100px;}
+.header{height: 90px;width: 1100px;border-bottom: 2px solid black;}
+.one{height: 90px;width: 200px;background-image: url(Images/logo.jpg);background-size: 100%;float: left;}
+.two h1 {float: left;width: 700px;text-align: center;font-size: 40px;font-family: 'Segoe UI';color: rgb(81, 79, 79);}
+.header1 {height: 50px;width: 1100px;border-bottom: 2px solid black;}
+.header1 i{float: left;height: 25px;width: 110px;padding:15.5px 0px 12.5px 40px;color: black;font-size: 22px;}
+.header1 i:hover {color: blue;}
+.header1 span{width: 40px;float: right;font-size: 34px;padding: 5px;color: black;}
+.content{width: 1100px;}
+.main{margin-left:50px;}
+.card1{float: left;}
+.card-img{width:340px;}
+.card-title{color: rgb(50, 49, 49);padding-left:50px;font-family:'Courier New';padding-top: 0px;}
+.card-text{font-size: larger;padding-left: 30px;font-weight: bolder;color: rgb(137, 136, 136);font-family: 'Courier New';}
+.hc{padding-left: 110px;color: rgb(88, 87, 87);}
+.add_cart{margin-left:85px;width:120px;height:36px;padding-left:0px;font-weight: bold;font-size:17px;background-color:white;border:2px solid gray;color: grey}
+#empty{height: 100px;}
+.two1 h1{float: left;width: 700px;text-align: center;font-size: 40px;font-family: 'Segoe UI';color:black;padding-left: 200px;}
+.two2 {height: 40px;width: 1100px;float: right;border-bottom:2px solid black;}
+.ab{font-size: 28px;font-weight:bolder;color:black;padding-left: 780px;margin-left: 100px;}
+.ab a:hover{color: blue;}
+#products{height:100%;width: 1100px;}
+.three{height: 40px;width: 1100px;float: left;border-bottom: 2px solid black;font-weight: bolder;font-size:17px;}
+.three1{float: left;padding-left: 127px;padding-top: 10px;}
+.three2{float: left;padding-left: 200px;padding-top: 10px;}
+.three3{float: left;padding-left: 200px;padding-top: 10px;}
+.three4{float: left;padding-left: 200px;padding-top: 10px;}
+.total{float: left;padding-left: 960px;font-weight: bolder;font-size:25px;padding-top: 10px;}
+.img_img{width:150px;height:150px;float: left;padding-top: 20px;padding-left:40px;}
+.img_sno{width: 110px;height:100px;float: left;padding-left:140px;font-weight: bolder;font-size: 25px;padding-top: 20px;}
+.img_pname{width:150px;height: 100px;float: left;padding-top: 20px;padding-left:100px;font-weight: bolder;font-size:x-large;}
+.img_price{width: 110px;height: 100px;float: left;padding-top: 20px;padding-left:120px;font-size: xx-large;font-weight: bolder;}
+.cancel{width: 110px;height: 100px;float: left;padding-top:20px;padding-left:250px;color:rgb(86, 85, 85);font-size:30px;font-weight: 900;}
+#out{float: left;padding-left:550px;font-weight: bolder;font-size: larger;padding-top: 10px;}
+#out button{border-color: black;font-size: large;font-weight: bolder;padding:5px;}
